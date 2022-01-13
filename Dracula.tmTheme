@@ -63,9 +63,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6272a4</string>
+				<string>#ff6e6e</string>
 				<key>fontStyle</key>
-				<string></string>
+				<string>bold italic</string>
 			</dict>
 		</dict>
 		<dict>
